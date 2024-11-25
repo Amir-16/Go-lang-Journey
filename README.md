@@ -1,1 +1,1 @@
-This simple Project created on Learning Go lang Purpose
+This simple Project created on Learning golang Purpose
